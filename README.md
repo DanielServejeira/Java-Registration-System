@@ -1,2 +1,4 @@
 # Sistema-Cadastro-Java
-Sistema de Cadastro de uma Universidade - Trabalho Prático da disciplina Programação Orientada a Objetos
+Sistema de Cadastro de uma Universidade em Java - Trabalho Prático da disciplina Programação Orientada a Objetos
+
+Colaboradores: Daniel Servejeira e Rennan Furlaneto
